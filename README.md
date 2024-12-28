@@ -24,6 +24,12 @@ pip install requests pandas plotly
 
 ## Useful Links
 
+### WinPython Downloads
+WinPython is a portable Python distribution for Windows. It includes useful libraries and tools for scientific computing and data analysis.
+
+- [Download WinPython from SourceForge](https://sourceforge.net/projects/winpython/)
+- [Official WinPython Website](https://winpython.github.io/)
+
 ### Logs
 - **Cipherflow Log:** [Google Sheets](https://docs.google.com/spreadsheets/d/1mj7SbTyZDZxy0P4KkkC0g4B_FLskvBL8RVPd97AGIuk/edit?usp=sharing)
 - **Weight Log:** [Google Sheets](https://docs.google.com/spreadsheets/d/1Bwxv1UpTWI_yfSBDxHIji26hWI35yRxFm8YFjyOC9Kc/edit?usp=sharing)
