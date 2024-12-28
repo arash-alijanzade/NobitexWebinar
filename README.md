@@ -21,47 +21,6 @@ pip install requests pandas plotly
 
 ---------------------------
 
-Useful Links:
-
-
-Weight log:
-  
-
-Sites:
-  https://www.tradingview.com/
-  https://crypto-ml.com/
-  https://hodlbot.io/
-  https://www.pathcrypto.com/ : stackedinvest
-  https://www.quantinsti.com/
-  https://www.youtube.com/@ChatWithTradersPodcast
-
-Books: 
-  https://www.amazon.com/Hour-Between-Dog-Wolf-Transforms/dp/0143123408
-  https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447
-  https://www.amazon.com/Disciplined-Trader-Developing-Winning-Attitudes/dp/0132157578
-
-Webinar github:
-  https://github.com/arash-alijanzade/NobitexWebinar.git
-
-Free python course:
-
-  https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
-  https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7
-  https://www.youtube.com/watch?v=xAcTmDO6NTI&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB
-
-my telegram channels:
-  https://t.me/trade_without_arash
-  https://t.me/usdt_irt_arbitrage
-
-join all my channels:
-  https://t.me/addlist/TDtk_ArJ6zI5NDc0
-
-contact me:
-  arash.alijanzade@gmail.com
-  https://t.me/ArashAlijanzade
-
-
------------------------------------
 
 ## Useful Links
 
