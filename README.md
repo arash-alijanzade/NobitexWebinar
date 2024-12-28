@@ -68,7 +68,7 @@ contact me:
 ## Useful Links
 
 ### Logs
-- **Cipherflow Log:** [Google Sheets](https://docs.google.com/spreadsheets/d/1mj7SbTyZDZxy0P4KkkC0g4B_FLskvBL8RVPd97AGluk/edit?usp=sharing)
+- **Cipherflow Log:** [Google Sheets](https://docs.google.com/spreadsheets/d/1mj7SbTyZDZxy0P4KkkC0g4B_FLskvBL8RVPd97AGIuk/edit?usp=sharing)
 - **Weight Log:** [Google Sheets](https://docs.google.com/spreadsheets/d/1Bwxv1UpTWI_yfSBDxHJij26hWI35yRxFm8YFjyOC9Kc/edit?usp=sharing)
 
 ### Websites
